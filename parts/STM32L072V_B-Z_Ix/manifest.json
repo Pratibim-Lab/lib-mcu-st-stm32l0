@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L0/STM32L072V_B-Z_Ix:STM32L072V_B-Z_Ix",
+  "name": "STM32L072V_B-Z_Ix",
+  "library": "MCU_ST_STM32L0",
+  "file": "MCU_ST_STM32L0.kicad_symdir/STM32L072V_B-Z_Ix.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 128-192KB flash, 20KB RAM, 32 MHz, 1.65-3.6V, 84 GPIO, UFBGA100",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l072vb.pdf",
+  "keywords": "Arm Cortex-M0+ STM32L0 STM32L0x2",
+  "footprint": "Package_BGA:UFBGA-100_7x7mm_Layout12x12_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l0@master/parts/STM32L072V_B-Z_Ix/",
+  "part_path": "parts/STM32L072V_B-Z_Ix",
+  "symbol_file": "parts/STM32L072V_B-Z_Ix/STM32L072V_B-Z_Ix.kicad_sym",
+  "source_library": "MCU_ST_STM32L0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:01.533Z"
+}

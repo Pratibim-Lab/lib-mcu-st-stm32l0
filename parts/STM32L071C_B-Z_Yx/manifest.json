@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L0/STM32L071C_B-Z_Yx:STM32L071C_B-Z_Yx",
+  "name": "STM32L071C_B-Z_Yx",
+  "library": "MCU_ST_STM32L0",
+  "file": "MCU_ST_STM32L0.kicad_symdir/STM32L071C_B-Z_Yx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 128-192KB flash, 20KB RAM, 32 MHz, 1.65-3.6V, 40 GPIO, WLCSP49",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l071cb.pdf",
+  "keywords": "Arm Cortex-M0+ STM32L0 STM32L0x1",
+  "footprint": "Package_CSP:ST_WLCSP-49_Die447",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l0@master/parts/STM32L071C_B-Z_Yx/",
+  "part_path": "parts/STM32L071C_B-Z_Yx",
+  "symbol_file": "parts/STM32L071C_B-Z_Yx/STM32L071C_B-Z_Yx.kicad_sym",
+  "source_library": "MCU_ST_STM32L0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:01.227Z"
+}

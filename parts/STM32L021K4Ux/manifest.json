@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L0/STM32L021K4Ux:STM32L021K4Ux",
+  "name": "STM32L021K4Ux",
+  "library": "MCU_ST_STM32L0",
+  "file": "MCU_ST_STM32L0.kicad_symdir/STM32L021K4Ux.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 16KB flash, 2KB RAM, 28 GPIO, UFQFPN32",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l021k4.pdf",
+  "keywords": "Arm Cortex-M0+ STM32L0 STM32L0x1",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l0@master/parts/STM32L021K4Ux/",
+  "part_path": "parts/STM32L021K4Ux",
+  "symbol_file": "parts/STM32L021K4Ux/STM32L021K4Ux.kicad_sym",
+  "source_library": "MCU_ST_STM32L0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:00.811Z"
+}

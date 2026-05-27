@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L0/STM32L082KZUx:STM32L082KZUx",
+  "name": "STM32L082KZUx",
+  "library": "MCU_ST_STM32L0",
+  "file": "MCU_ST_STM32L0.kicad_symdir/STM32L082KZUx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 192KB flash, 20KB RAM, 32 MHz, 1.65-3.6V, 23 GPIO, UFQFPN32",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l082kz.pdf",
+  "keywords": "Arm Cortex-M0+ STM32L0 STM32L0x2",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",
+  "extends": "STM32L082K_B-Z_Ux",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l0@master/parts/STM32L082KZUx/",
+  "part_path": "parts/STM32L082KZUx",
+  "symbol_file": "parts/STM32L082KZUx/STM32L082KZUx.kicad_sym",
+  "source_library": "MCU_ST_STM32L0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:01.776Z"
+}

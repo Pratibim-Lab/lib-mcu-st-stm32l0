@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L0/STM32L071R_B-Z_Hx:STM32L071R_B-Z_Hx",
+  "name": "STM32L071R_B-Z_Hx",
+  "library": "MCU_ST_STM32L0",
+  "file": "MCU_ST_STM32L0.kicad_symdir/STM32L071R_B-Z_Hx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 128-192KB flash, 20KB RAM, 32 MHz, 1.65-3.6V, 50 GPIO, TFBGA64",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l071rb.pdf",
+  "keywords": "Arm Cortex-M0+ STM32L0 STM32L0x1",
+  "footprint": "Package_BGA:TFBGA-64_5x5mm_Layout8x8_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l0@master/parts/STM32L071R_B-Z_Hx/",
+  "part_path": "parts/STM32L071R_B-Z_Hx",
+  "symbol_file": "parts/STM32L071R_B-Z_Hx/STM32L071R_B-Z_Hx.kicad_sym",
+  "source_library": "MCU_ST_STM32L0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:01.328Z"
+}

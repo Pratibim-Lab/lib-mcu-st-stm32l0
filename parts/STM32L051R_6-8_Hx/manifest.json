@@ -1,0 +1,17 @@
+{
+  "id": "MCU_ST_STM32L0/STM32L051R_6-8_Hx:STM32L051R_6-8_Hx",
+  "name": "STM32L051R_6-8_Hx",
+  "library": "MCU_ST_STM32L0",
+  "file": "MCU_ST_STM32L0.kicad_symdir/STM32L051R_6-8_Hx.kicad_sym",
+  "description": "STMicroelectronics Arm Cortex-M0+ MCU, 32-64KB flash, 8KB RAM, 32 MHz, 1.65-3.6V, 50 GPIO, TFBGA64",
+  "datasheet": "https://www.st.com/resource/en/datasheet/stm32l051r6.pdf",
+  "keywords": "Arm Cortex-M0+ STM32L0 STM32L0x1",
+  "footprint": "Package_BGA:TFBGA-64_5x5mm_Layout8x8_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-st-stm32l0@master/parts/STM32L051R_6-8_Hx/",
+  "part_path": "parts/STM32L051R_6-8_Hx",
+  "symbol_file": "parts/STM32L051R_6-8_Hx/STM32L051R_6-8_Hx.kicad_sym",
+  "source_library": "MCU_ST_STM32L0.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:09:01.004Z"
+}
